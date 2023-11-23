@@ -9,7 +9,7 @@ function newGradient(){
 
     let color_background = document.querySelector("#color-gradient")
 
-    color_background.style.background = `linear-gradient(90deg, rgb(${R0},${G0},${B0}),rgb(${R1},${G1},${B1}));`
+    color_background.style.background = `linear-gradient(90deg, rgb(${R0},${G0},${B0}),rgb(${R1},${G1},${B1}))`
 
  
 }
